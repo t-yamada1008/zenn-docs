@@ -1,3 +1,4 @@
+---
 title: "GNU Stowを使ってdotfiles管理を楽にする"
 emoji: "⚫️"
 type: "tech" # tech: 技術記事 / idea: アイデア
