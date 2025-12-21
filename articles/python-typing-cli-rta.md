@@ -35,13 +35,13 @@ published: true
 
 ## typer
 typerはpythonでCLIを作るツール。
-argparseもあるらしいけど、とりあえず今回はtyperにする。
+argparseも選択肢だが、とりあえず今回はtyperにする。
 
 ### メリット
 - argparseより短くて可読性が高いらしい
 - 関数の引数がCLIのオプションになる
 - --helpが自動生成
--- 型ヒント効く
+- 型ヒントが効く
 
 ### sample
 
@@ -61,9 +61,9 @@ app()
 # Hello Taka
 ```
 
-なお、このタイミングでpythonのバージョンを上げた。
+なお、venvを切るタイミングでPythonを更新した。
 .venvを入れて、pythonの仮想化環境を作る。
-.ignoreで.venvの環境を弾く必要がある。
+.gitignoreで.venvの環境を弾く必要がある。
 ここはdocker cliにしてもいいかも。
 
 ## PyYAML
