@@ -3,7 +3,7 @@ title: "写経タイピングCLI開発RTA"
 emoji: "⛳"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [rta]
-published: false
+published: true
 ---
 
 アドベントカレンダーをやりますとノリで言ってしまったのでやる。
